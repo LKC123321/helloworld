@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>di4annotate</name>
+=======
+	<name>di4xml</name>
+>>>>>>> branch 'master' of https://github.com/LKC123321/helloworld.git
 	<comment></comment>
 	<projects>
 	</projects>
